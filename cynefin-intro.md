@@ -6,8 +6,8 @@
 4. Bonus: read the [7-page PDF from Rob England](http://www.basicsm.com/public/standard_plus_case_and_cynefin_v1.pdf) about Cynefin and Standard+Case, as well as mentions of other approaches.
 
 Domains:
-* 🤔 Confused
-* ⚙️ Clear
+* 🤔 Confusion (previously "disordered")
+* ⚙️ Clear (previously "simple" and "obvious")
 * 🧪 Complicated
 * 🏝️ Complex
 * 🌊 Chaos
